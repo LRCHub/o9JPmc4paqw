@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "B・BLUE",
+  "base_artist": "Boowy",
+  "createdAt": "2025-12-27T12:49:18.897615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "B-Blue",
+      "artist": "BOØWY",
+      "has_synced": true,
+      "path": "select/01_B-Blue_BOØWY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "B·BLUE",
+      "artist": "BOØWY",
+      "has_synced": true,
+      "path": "select/02_B·BLUE_BOØWY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "B・BLUE",
+      "artist": "BOØWY",
+      "has_synced": true,
+      "path": "select/03_B・BLUE_BOØWY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "b-blue",
+      "artist": "bowy",
+      "has_synced": true,
+      "path": "select/04_b-blue_bowy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "B・BLUE (Live Version)",
+      "artist": "Boøwy",
+      "has_synced": true,
+      "path": "select/05_B・BLUE_(Live_Version)_Boøwy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "B・BLUE",
+      "artist": "BOφWY",
+      "has_synced": true,
+      "path": "select/06_B・BLUE_BOφWY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "B・BLUE",
+      "artist": "BOOWY",
+      "has_synced": true,
+      "path": "select/07_B・BLUE_BOOWY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "B・BLUE - FROM \"LAST GIGS\"",
+      "artist": "BOØWY",
+      "has_synced": false,
+      "path": "select/08_B・BLUE_-_FROM__LAST_GIGS_BOØWY.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "B・BLUE",
+      "artist": "BOOWY",
+      "has_synced": true,
+      "path": "select/09_B・BLUE_BOOWY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_01_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_02_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_03_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_04_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_05_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "B・Blue",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_06_B・Blue_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "B・Blue",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_07_B・Blue_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_08_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_09_B・BLUE_BOΦWY.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "B・BLUE",
+      "artist": "BOΦWY",
+      "has_synced": false,
+      "path": "select/pl_10_B・BLUE_BOΦWY.txt"
+    }
+  ]
+}
